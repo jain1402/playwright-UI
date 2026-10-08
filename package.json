@@ -1,0 +1,19 @@
+{
+  "name": "fynxt-playwright-automation",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "test": "playwright test",
+    "test:signup": "playwright test tests/signup.spec.js",
+    "test:login": "playwright test tests/login.spec.js",
+    "test:e2e": "playwright test tests/e2e.spec.js",
+    "test:headed": "playwright test --headed",
+    "test:debug": "playwright test --debug",
+    "test:headed:e2e": "playwright test --headed tests/e2e.spec.js"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.54.0",
+    "dotenv": "^16.4.7"
+  }
+}

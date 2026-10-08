@@ -1,0 +1,51 @@
+- main [ref=f7e7]:
+  - generic [ref=f7e12]:
+    - generic [ref=f7e19]:
+      - paragraph [ref=f7e20]: Powered by LMAX Group
+      - heading "Institutional-grade execution. Private-client service." [level=1] [ref=f7e21]
+      - paragraph [ref=f7e22]: Black & White Spreads is built on LMAX Group technology, the institutional exchange trusted by global banks and funds.
+      - generic [ref=f7e23]:
+        - generic [ref=f7e24]:
+          - heading "LMAX infrastructure" [level=3] [ref=f7e25]
+          - paragraph [ref=f7e26]: Pricing and execution on institutional technology.
+        - generic [ref=f7e27]:
+          - heading "A named account manager" [level=3] [ref=f7e28]
+          - paragraph [ref=f7e29]: One point of contact who knows your account.
+        - generic [ref=f7e30]:
+          - heading "Segregated client funds" [level=3] [ref=f7e31]
+          - paragraph [ref=f7e32]: Held separately from company money, under FCA rules.
+    - generic [ref=f7e35]:
+      - button "Select language" [ref=f7e38] [cursor=pointer]:
+        - generic [ref=f7e46]: English
+      - generic [ref=f7e65]:
+        - generic [ref=f7e68]:
+          - generic [ref=f7e69]: FYNXT
+          - generic [ref=f7e70]: Welcome back, UAT
+          - generic [ref=f7e71]: We are happy to have you back
+        - generic [ref=f7e72]:
+          - button " Continue with Google" [disabled]:
+            - generic: 
+            - text: Continue with Google
+        - generic [ref=f7e75]:
+          - button " Continue with Apple" [disabled]:
+            - generic: 
+            - text: Continue with Apple
+        - generic [ref=f7e78]: or
+        - generic [ref=f7e84]:
+          - generic [ref=f7e85]: Email *
+          - textbox "Email *" [ref=f7e87]:
+            - /placeholder: Enter email address
+            - text: playwright-2dd932ca-5d61-4c17-9648-83138abbf2bc@example.com
+        - generic [ref=f7e88]:
+          - generic [ref=f7e89]: Password *
+          - textbox "Password *" [ref=f7e91]:
+            - /placeholder: Enter password
+            - text: Fynxt@123
+        - link "Forgot password?" [ref=f7e95] [cursor=pointer]:
+          - /url: /forgot-password
+        - generic [ref=f7e96]:
+          - button "Sign In" [disabled]
+        - generic [ref=f7e101]:
+          - text: Don't have an account?
+          - link "Sign Up" [ref=f7e102] [cursor=pointer]:
+            - /url: /signup

@@ -1,0 +1,59 @@
+[     365ms] [INFO] 🌐 i18next is made possible by our own product, Locize — consider powering your project with managed localization (AI, CDN, integrations): https://locize.com 💙 @ https://brand1.cp-uat.fynxt.com/assets/index-JUSkJnae.js:21143
+[     948ms] [LOG] CSS loaded successfully @ https://brand1.cp-uat.fynxt.com/assets/index-JUSkJnae.js:28566
+[     953ms] [LOG] CSS loaded successfully @ https://brand1.cp-uat.fynxt.com/assets/index-JUSkJnae.js:28650
+[    1147ms] [LOG] ApiProvider initialized successfully @ https://brand1.cp-uat.fynxt.com/assets/index-JUSkJnae.js:16136
+[    1162ms] [WARNING] react-i18next:: i18n.languages were undefined or empty undefined @ https://brand1.cp-uat.fynxt.com/assets/index-JUSkJnae.js:16136
+[    1212ms] SyntaxError: Failed to execute 'appendChild' on 'Node': Unexpected identifier 'Object'
+    at https://brand1.cp-uat.fynxt.com/assets/index-JUSkJnae.js:30829:20136
+[    2696ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://brand1.cp-uat.fynxt.com/signin:0
+[    6588ms] [INFO] 🌐 i18next is made possible by our own product, Locize — consider powering your project with managed localization (AI, CDN, integrations): https://locize.com 💙 @ https://brand1.cp-uat.fynxt.com/assets/index-JUSkJnae.js:21143
+[    7067ms] [LOG] CSS loaded successfully @ https://brand1.cp-uat.fynxt.com/assets/index-JUSkJnae.js:28566
+[    7068ms] [LOG] CSS loaded successfully @ https://brand1.cp-uat.fynxt.com/assets/index-JUSkJnae.js:28650
+[    7204ms] [LOG] ApiProvider initialized successfully @ https://brand1.cp-uat.fynxt.com/assets/index-JUSkJnae.js:16136
+[    7209ms] [WARNING] react-i18next:: i18n.languages were undefined or empty undefined @ https://brand1.cp-uat.fynxt.com/assets/index-JUSkJnae.js:16136
+[    7247ms] SyntaxError: Failed to execute 'appendChild' on 'Node': Unexpected identifier 'Object'
+    at https://brand1.cp-uat.fynxt.com/assets/index-JUSkJnae.js:30829:20136
+[    8206ms] [LOG] Confirm Email:  @ :2
+[    8207ms] [LOG] Email:  @ :3
+[    8228ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://brand1.cp-uat.fynxt.com/signup:0
+[    8228ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://brand1.cp-uat.fynxt.com/signup:0
+[    8235ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://brand1.cp-uat.fynxt.com/api/brand/domain/allowed-countries:0
+[    8284ms] [LOG] Picklist Debug [personal_detail:title]: {hasTranslator: true, itemsCount: 4} @ :16
+[    8418ms] [LOG] Confirm Email:  @ :2
+[    8418ms] [LOG] Email:  @ :3
+[   10126ms] [LOG] Confirm Email:  @ :2
+[   10126ms] [LOG] Email:  @ :3
+[   10653ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://brand1.cp-uat.fynxt.com/api/brand/domain/allowed-countries:0
+[  250649ms] [LOG] Confirm Email:  @ :2
+[  250649ms] [LOG] Email:  @ :3
+[  250872ms] [LOG] Confirm Email:  @ :2
+[  250872ms] [LOG] Email:  @ :3
+[  271813ms] [LOG] Confirm Email:  @ :2
+[  271813ms] [LOG] Email:  @ :3
+[  276330ms] [LOG] Picklist Debug [personal_detail:title]: {hasTranslator: true, itemsCount: 4} @ :16
+[  280809ms] [LOG] Confirm Email:  @ :2
+[  280809ms] [LOG] Email:  @ :3
+[ 4760456ms] [LOG] Confirm Email:  @ :2
+[ 4760456ms] [LOG] Email: uat-playwright-1791445678981-0cb81e10@example.com @ :3
+[ 4761705ms] [LOG] Confirm Email: uat-playwright-1791445678981-0cb81e10@example.com @ :2
+[ 4761705ms] [LOG] Email: uat-playwright-1791445678981-0cb81e10@example.com @ :3
+[ 4763042ms] [LOG] Confirm Email: uat-playwright-1791445678981-0cb81e10@example.com @ :2
+[ 4763043ms] [LOG] Email: uat-playwright-1791445678981-0cb81e10@example.com @ :3
+[ 4764420ms] [LOG] Confirm Email: uat-playwright-1791445678981-0cb81e10@example.com @ :2
+[ 4764420ms] [LOG] Email: uat-playwright-1791445678981-0cb81e10@example.com @ :3
+[ 4800835ms] [LOG] Confirm Email: uat-playwright-1791445678981-0cb81e10@example.com @ :2
+[ 4800835ms] [LOG] Email: uat-playwright-1791445678981-0cb81e10@example.com @ :3
+[ 4806452ms] [LOG] Confirm Email: uat-playwright-1791445678981-0cb81e10@example.com @ :2
+[ 4806453ms] [LOG] Email: uat-playwright-1791445678981-0cb81e10@example.com @ :3
+[ 4815843ms] [LOG] Confirm Email: uat-playwright-1791445678981-0cb81e10@example.com @ :2
+[ 4815844ms] [LOG] Email: uat-playwright-1791445678981-0cb81e10@example.com @ :3
+[ 4835128ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://brand1.cp-uat.fynxt.com/api/brand/pages/prelogin/392fa6ab-0aa5-4ed1-bdac-5d0803dd8e5a:0
+[ 4835237ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://brand1.cp-uat.fynxt.com/api/brand/pages/prelogin/392fa6ab-0aa5-4ed1-bdac-5d0803dd8e5a:0
+[ 4841184ms] [INFO] 🌐 i18next is made possible by our own product, Locize — consider powering your project with managed localization (AI, CDN, integrations): https://locize.com 💙 @ https://brand1.cp-uat.fynxt.com/assets/index-DWpIY4w9.js:21143
+[ 4841919ms] [LOG] CSS loaded successfully @ https://brand1.cp-uat.fynxt.com/assets/index-DWpIY4w9.js:28566
+[ 4841923ms] [LOG] CSS loaded successfully @ https://brand1.cp-uat.fynxt.com/assets/index-DWpIY4w9.js:28650
+[ 4842116ms] [LOG] ApiProvider initialized successfully @ https://brand1.cp-uat.fynxt.com/assets/index-DWpIY4w9.js:16136
+[ 4842134ms] [WARNING] react-i18next:: i18n.languages were undefined or empty undefined @ https://brand1.cp-uat.fynxt.com/assets/index-DWpIY4w9.js:16136
+[ 4842196ms] SyntaxError: Failed to execute 'appendChild' on 'Node': Unexpected identifier 'Object'
+    at https://brand1.cp-uat.fynxt.com/assets/index-DWpIY4w9.js:30829:20136
+[ 4844998ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://brand1.cp-uat.fynxt.com/signIn:0

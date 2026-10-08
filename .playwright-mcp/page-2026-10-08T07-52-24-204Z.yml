@@ -1,0 +1,117 @@
+- main [ref=f4e5]:
+  - generic [ref=f4e12]:
+    - generic [ref=f4e16]:
+      - heading "Welcome to FYNXT" [level=1] [ref=f4e17]
+      - paragraph [ref=f4e18]: Your trusted fintech platform for seamless financial operations and cloud-based solutions.
+    - generic [ref=f4e21]:
+      - button "Select language" [ref=f4e24] [cursor=pointer]:
+        - generic [ref=f4e32]: English
+      - generic [ref=f4e44]:
+        - generic [ref=f4e45]: FYNXT
+        - heading "Join FYNXT" [level=3] [ref=f4e53]
+        - paragraph [ref=f4e56]: Begin your FYNXT journey - register today!
+        - generic [ref=f4e58]:
+          - generic [ref=f4e59]:
+            - generic [ref=f4e60]: Account Type *
+            - combobox [ref=f4e61] [cursor=pointer]:
+              - generic [ref=f4e172]:
+                - text: Individual
+                - 'button "Remove item: ''individual''" [ref=f4e173]': Remove item
+            - textbox "autocomplete"
+          - generic [ref=f4e71]:
+            - generic [ref=f4e72]:
+              - generic [ref=f4e73]: Title
+              - combobox [expanded] [ref=f4e74] [cursor=pointer]:
+                - generic [ref=f4e75]: Select
+                - generic [ref=f4e174]:
+                  - textbox "Select" [active] [ref=f4e175]:
+                    - /placeholder: Type to search
+                  - listbox [ref=f4e176]:
+                    - option "mr" [selected] [ref=f4e177]
+                    - option "ms" [ref=f4e178]
+                    - option "mrs" [ref=f4e179]
+                    - option "dr" [ref=f4e180]
+              - textbox "autocomplete"
+            - generic [ref=f4e78]:
+              - paragraph
+              - paragraph [ref=f4e79]: (Kindly enter both your first and last names in the exact form they appear on your passport.)
+              - paragraph
+            - generic [ref=f4e80]:
+              - generic [ref=f4e81]: First Name *
+              - textbox "First Name *" [ref=f4e83]:
+                - /placeholder: First Name
+                - text: Playwright
+            - generic [ref=f4e84]:
+              - generic [ref=f4e85]: Last Name *
+              - textbox "Last Name *" [ref=f4e87]:
+                - /placeholder: Last Name
+                - text: UAT
+            - generic [ref=f4e88]:
+              - paragraph
+              - paragraph [ref=f4e89]: (All correspondence and OTPs will be sent to the email address and mobile number provided.)
+              - paragraph
+            - generic [ref=f4e90]:
+              - generic [ref=f4e91]: Email Address *
+              - textbox "Email Address *" [ref=f4e93]:
+                - /placeholder: Email Address
+            - generic [ref=f4e94]:
+              - generic [ref=f4e95]: Confirm Email Address *
+              - textbox "Confirm Email Address *" [ref=f4e97]:
+                - /placeholder: Confirm Email Address
+            - generic [ref=f4e98]:
+              - generic [ref=f4e99]: Password *
+              - generic [ref=f4e100]:
+                - generic [ref=f4e101]:
+                  - textbox "Password *" [ref=f4e102]:
+                    - /placeholder: Password
+                  - button "Toggle password visibility" [ref=f4e103] [cursor=pointer]:
+                    - img "toggle"
+                - list [ref=f4e104]:
+                  - listitem [ref=f4e105]:
+                    - img "pending" [ref=f4e107]
+                    - generic [ref=f4e108]: 8–20 characters
+                  - listitem [ref=f4e109]:
+                    - img "pending" [ref=f4e111]
+                    - generic [ref=f4e112]: 1 upper case letter
+                  - listitem [ref=f4e113]:
+                    - img "pending" [ref=f4e115]
+                    - generic [ref=f4e116]: 1 number
+                  - listitem [ref=f4e117]:
+                    - img "pending" [ref=f4e119]
+                    - generic [ref=f4e120]: 1 special character
+            - generic [ref=f4e121]:
+              - generic [ref=f4e122]: Confirm Password *
+              - generic [ref=f4e123]:
+                - generic [ref=f4e124]:
+                  - textbox "Confirm Password *" [ref=f4e125]:
+                    - /placeholder: Re-enter Password
+                  - button "Toggle password visibility" [ref=f4e126] [cursor=pointer]:
+                    - img "toggle"
+                - list
+            - generic [ref=f4e127]:
+              - generic [ref=f4e128]: Country of Residence *
+              - combobox [ref=f4e129] [cursor=pointer]:
+                - generic [ref=f4e130]:
+                  - generic [ref=f4e131]: 
+                  - generic [ref=f4e134]:
+                    - text: India
+                    - 'button "Remove item: ''7e00566d-3a5b-442f-bc80-c94380dbace4''" [ref=f4e135]': Remove item
+              - textbox "autocomplete"
+            - generic [ref=f4e136]:
+              - generic [ref=f4e137]: Phone Number *
+              - generic [ref=f4e139]:
+                - button "Change country, selected United States (+1)" [ref=f4e141] [cursor=pointer]:
+                  - generic [ref=f4e145]: US
+                - textbox "Phone Number *" [ref=f4e146]:
+                  - /placeholder: Phone Number
+            - generic [ref=f4e149]:
+              - generic [ref=f4e150]: Alternate Phone Number
+              - generic [ref=f4e152]:
+                - button "Change country, selected United States (+1)" [ref=f4e154] [cursor=pointer]:
+                  - generic [ref=f4e158]: US
+                - textbox "Alternate Phone Number" [ref=f4e159]
+          - button "Sign up" [ref=f4e163] [cursor=pointer]
+          - generic [ref=f4e164]:
+            - generic [ref=f4e165]: Already have an account?
+            - link "Log in" [ref=f4e171] [cursor=pointer]:
+              - /url: /signin

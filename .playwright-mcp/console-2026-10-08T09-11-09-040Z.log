@@ -1,0 +1,18 @@
+[     480ms] [INFO] 🌐 i18next is made possible by our own product, Locize — consider powering your project with managed localization (AI, CDN, integrations): https://locize.com 💙 @ https://brand1.cp-uat.fynxt.com/assets/index-DWpIY4w9.js:21143
+[    1498ms] [LOG] CSS loaded successfully @ https://brand1.cp-uat.fynxt.com/assets/index-DWpIY4w9.js:28566
+[    1504ms] [LOG] CSS loaded successfully @ https://brand1.cp-uat.fynxt.com/assets/index-DWpIY4w9.js:28650
+[    2312ms] [LOG] ApiProvider initialized successfully @ https://brand1.cp-uat.fynxt.com/assets/index-DWpIY4w9.js:16136
+[    2321ms] [WARNING] react-i18next:: i18n.languages were undefined or empty undefined @ https://brand1.cp-uat.fynxt.com/assets/index-DWpIY4w9.js:16136
+[    2391ms] SyntaxError: Failed to execute 'appendChild' on 'Node': Unexpected identifier 'Object'
+    at https://brand1.cp-uat.fynxt.com/assets/index-DWpIY4w9.js:30829:20136
+[    3992ms] [LOG] Confirm Email:  @ :2
+[    3993ms] [LOG] Email:  @ :3
+[    4033ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://brand1.cp-uat.fynxt.com/signup:0
+[    4034ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://brand1.cp-uat.fynxt.com/signup:0
+[    4126ms] [LOG] Picklist Debug [personal_detail:title]: {hasTranslator: true, itemsCount: 4} @ :16
+[    4192ms] [LOG] Confirm Email:  @ :2
+[    4193ms] [LOG] Email:  @ :3
+[    5027ms] [LOG] Confirm Email:  @ :2
+[    5027ms] [LOG] Email:  @ :3
+[    5207ms] [LOG] Confirm Email:  @ :2
+[    5210ms] [LOG] Email:  @ :3

@@ -1,0 +1,40 @@
+[    2785ms] [INFO] 🌐 i18next is made possible by our own product, Locize — consider powering your project with managed localization (AI, CDN, integrations): https://locize.com 💙 @ https://brand1.cp-uat.fynxt.com/assets/index-JUSkJnae.js:21143
+[    3082ms] [LOG] CSS loaded successfully @ https://brand1.cp-uat.fynxt.com/assets/index-JUSkJnae.js:28566
+[    3084ms] [LOG] CSS loaded successfully @ https://brand1.cp-uat.fynxt.com/assets/index-JUSkJnae.js:28650
+[    3230ms] [LOG] ApiProvider initialized successfully @ https://brand1.cp-uat.fynxt.com/assets/index-JUSkJnae.js:16136
+[    3242ms] [WARNING] react-i18next:: i18n.languages were undefined or empty undefined @ https://brand1.cp-uat.fynxt.com/assets/index-JUSkJnae.js:16136
+[    4011ms] SyntaxError: Failed to execute 'appendChild' on 'Node': Unexpected identifier 'Object'
+    at https://brand1.cp-uat.fynxt.com/assets/index-JUSkJnae.js:30829:20136
+[    4422ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://brand1.cp-uat.fynxt.com/signin:0
+[   12802ms] [INFO] 🌐 i18next is made possible by our own product, Locize — consider powering your project with managed localization (AI, CDN, integrations): https://locize.com 💙 @ https://brand1.cp-uat.fynxt.com/assets/index-JUSkJnae.js:21143
+[   13069ms] [LOG] CSS loaded successfully @ https://brand1.cp-uat.fynxt.com/assets/index-JUSkJnae.js:28566
+[   13070ms] [LOG] CSS loaded successfully @ https://brand1.cp-uat.fynxt.com/assets/index-JUSkJnae.js:28650
+[   13372ms] [LOG] ApiProvider initialized successfully @ https://brand1.cp-uat.fynxt.com/assets/index-JUSkJnae.js:16136
+[   13374ms] [WARNING] react-i18next:: i18n.languages were undefined or empty undefined @ https://brand1.cp-uat.fynxt.com/assets/index-JUSkJnae.js:16136
+[   13383ms] SyntaxError: Failed to execute 'appendChild' on 'Node': Unexpected identifier 'Object'
+    at https://brand1.cp-uat.fynxt.com/assets/index-JUSkJnae.js:30829:20136
+[   14314ms] [LOG] Confirm Email:  @ :2
+[   14314ms] [LOG] Email:  @ :3
+[   14361ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://brand1.cp-uat.fynxt.com/signup:0
+[   14362ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://brand1.cp-uat.fynxt.com/signup:0
+[   14389ms] [LOG] Picklist Debug [personal_detail:title]: {hasTranslator: true, itemsCount: 4} @ :16
+[   14539ms] [LOG] Confirm Email:  @ :2
+[   14540ms] [LOG] Email:  @ :3
+[   15252ms] [LOG] Confirm Email:  @ :2
+[   15253ms] [LOG] Email:  @ :3
+[   50504ms] [LOG] Confirm Email:  @ :2
+[   50504ms] [LOG] Email:  @ :3
+[   55517ms] [LOG] Picklist Debug [personal_detail:title]: {hasTranslator: true, itemsCount: 4} @ :16
+[   64700ms] [LOG] Confirm Email:  @ :2
+[   64701ms] [LOG] Email:  @ :3
+[  143184ms] [LOG] Confirm Email:  @ :2
+[  143184ms] [LOG] Email:  @ :3
+[  143225ms] [LOG] [Object, Object, Object, Object, Object, Object, Object] @ https://brand1.cp-uat.fynxt.com/assets/index-JUSkJnae.js:25887
+[  158057ms] [INFO] 🌐 i18next is made possible by our own product, Locize — consider powering your project with managed localization (AI, CDN, integrations): https://locize.com 💙 @ https://brand1.cp-uat.fynxt.com/assets/index-JUSkJnae.js:21143
+[  158384ms] [LOG] CSS loaded successfully @ https://brand1.cp-uat.fynxt.com/assets/index-JUSkJnae.js:28566
+[  158385ms] [LOG] CSS loaded successfully @ https://brand1.cp-uat.fynxt.com/assets/index-JUSkJnae.js:28650
+[  158527ms] [LOG] ApiProvider initialized successfully @ https://brand1.cp-uat.fynxt.com/assets/index-JUSkJnae.js:16136
+[  158532ms] [WARNING] react-i18next:: i18n.languages were undefined or empty undefined @ https://brand1.cp-uat.fynxt.com/assets/index-JUSkJnae.js:16136
+[  158551ms] SyntaxError: Failed to execute 'appendChild' on 'Node': Unexpected identifier 'Object'
+    at https://brand1.cp-uat.fynxt.com/assets/index-JUSkJnae.js:30829:20136
+[  160011ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://brand1.cp-uat.fynxt.com/signin:0

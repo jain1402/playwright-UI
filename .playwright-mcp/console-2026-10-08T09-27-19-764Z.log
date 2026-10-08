@@ -1,0 +1,13 @@
+[    1933ms] [INFO] 🌐 i18next is made possible by our own product, Locize — consider powering your project with managed localization (AI, CDN, integrations): https://locize.com 💙 @ https://brand1.cp-uat.fynxt.com/assets/index-DWpIY4w9.js:21143
+[    2681ms] [LOG] CSS loaded successfully @ https://brand1.cp-uat.fynxt.com/assets/index-DWpIY4w9.js:28566
+[    2685ms] [LOG] CSS loaded successfully @ https://brand1.cp-uat.fynxt.com/assets/index-DWpIY4w9.js:28650
+[    2857ms] [LOG] ApiProvider initialized successfully @ https://brand1.cp-uat.fynxt.com/assets/index-DWpIY4w9.js:16136
+[    2875ms] [WARNING] react-i18next:: i18n.languages were undefined or empty undefined @ https://brand1.cp-uat.fynxt.com/assets/index-DWpIY4w9.js:16136
+[    2945ms] SyntaxError: Failed to execute 'appendChild' on 'Node': Unexpected identifier 'Object'
+    at https://brand1.cp-uat.fynxt.com/assets/index-DWpIY4w9.js:30829:20136
+[    5122ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://brand1.cp-uat.fynxt.com/signin:0
+[   21842ms] [LOG] ApiProvider initialized successfully @ https://brand1.cp-uat.fynxt.com/assets/index-DWpIY4w9.js:16136
+[   25676ms] [LOG] set_val.guardCount 1 @ :4
+[   25676ms] [LOG] set_val no @ :5
+[   25939ms] [LOG] set_val.guardCount 2 @ :4
+[   25939ms] [LOG] set_val no @ :5

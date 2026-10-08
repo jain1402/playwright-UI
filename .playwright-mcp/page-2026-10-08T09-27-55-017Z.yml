@@ -1,0 +1,109 @@
+- generic [ref=f7e103]:
+  - banner [ref=f7e104]:
+    - generic [ref=f7e109]:
+      - button "Skip onboarding" [ref=f7e145] [cursor=pointer]: Skip Onboarding
+      - button "Select language" [ref=f7e112] [cursor=pointer]: EN
+      - button "Notifications" [ref=f7e113] [cursor=pointer]
+      - button "Profile" [ref=f7e118] [cursor=pointer]:
+        - generic [ref=f7e119]: PT
+        - generic [ref=f7e122]: Playwright Test
+  - main [ref=f7e143]:
+    - generic [ref=f7e155]:
+      - generic [ref=f7e158]:
+        - generic [ref=f7e159]: 1 / 5
+        - progressbar [ref=f7e161]
+      - main [ref=f7e163]:
+        - generic [ref=f7e171]:
+          - generic [ref=f7e173]:
+            - generic [ref=f7e174]:
+              - generic [ref=f7e176]:
+                - generic [ref=f7e177]: First Name *
+                - textbox "First Name *" [ref=f7e179]:
+                  - /placeholder: First Name
+                  - text: Playwright
+              - generic [ref=f7e181]:
+                - generic [ref=f7e182]: Last Name *
+                - textbox "Last Name *" [ref=f7e184]:
+                  - /placeholder: Last Name
+                  - text: Test
+              - generic [ref=f7e186]:
+                - generic [ref=f7e187]: Date of Birth *
+                - generic [ref=f7e189]:
+                  - textbox "DD/MM/YYYY" [ref=f7e190] [cursor=pointer]
+                  - generic: 
+              - generic [ref=f7e193]:
+                - generic [ref=f7e194]: Gender *
+                - radiogroup "Gender *" [ref=f7e195]:
+                  - generic [ref=f7e197] [cursor=pointer]:
+                    - radio "Male" [ref=f7e198]
+                    - text: Male
+                  - generic [ref=f7e200] [cursor=pointer]:
+                    - radio "Female" [ref=f7e201]
+                    - text: Female
+              - generic [ref=f7e203]:
+                - generic [ref=f7e204]: Nationality 1 *
+                - combobox [ref=f7e205] [cursor=pointer]:
+                  - generic [ref=f7e206]:
+                    - generic [ref=f7e207]: 
+                    - generic [ref=f7e210]:
+                      - text: India
+                      - 'button "Remove item: ''7e00566d-3a5b-442f-bc80-c94380dbace4''" [ref=f7e211]': Remove item
+                - textbox "autocomplete"
+              - generic [ref=f7e213]:
+                - generic [ref=f7e214]: Are you a national of any other country? *
+                - radiogroup "Are you a national of any other country? *" [ref=f7e215]:
+                  - generic [ref=f7e217] [cursor=pointer]:
+                    - radio "Yes" [ref=f7e218]
+                    - text: "Yes"
+                  - generic [ref=f7e220] [cursor=pointer]:
+                    - radio "No" [checked] [ref=f7e221]
+                    - text: "No"
+            - generic [ref=f7e225]:
+              - generic [ref=f7e227]:
+                - separator [ref=f7e228]
+                - heading "Current Residential Information (As it appears on your proof of residence document)" [level=3] [ref=f7e229]
+              - generic [ref=f7e230]:
+                - generic [ref=f7e231]: Current Residential Address
+                - textbox "Current Residential Address" [ref=f7e233]
+              - generic [ref=f7e234]:
+                - generic [ref=f7e235]: Address Line 2
+                - textbox "Address Line 2" [ref=f7e237]
+              - generic [ref=f7e238]:
+                - generic [ref=f7e240]:
+                  - generic [ref=f7e241]: Building and Apartment Number *
+                  - textbox "Building and Apartment Number *" [ref=f7e243]:
+                    - /placeholder: Building and Apartment Number
+                - generic [ref=f7e245]:
+                  - generic [ref=f7e246]: Street Name *
+                  - textbox "Street Name *" [ref=f7e248]:
+                    - /placeholder: Street Name
+                - generic [ref=f7e250]:
+                  - generic [ref=f7e251]: Country *
+                  - combobox [ref=f7e252] [cursor=pointer]:
+                    - generic [ref=f7e253]:
+                      - generic [ref=f7e254]: 
+                      - generic [ref=f7e256]: Select Country
+                  - textbox "autocomplete"
+                - generic [ref=f7e259]:
+                  - generic [ref=f7e260]: City *
+                  - textbox "City *" [ref=f7e262]:
+                    - /placeholder: City
+                - generic [ref=f7e264]:
+                  - generic [ref=f7e265]: Mobile Number *
+                  - generic [ref=f7e267]:
+                    - button "Change country, selected United Kingdom (+44)" [disabled] [ref=f7e269]:
+                      - generic [ref=f7e273]: GB
+                    - textbox "Mobile Number *" [disabled] [ref=f7e274]:
+                      - /placeholder: Mobile Number
+                      - text: 7827 418842
+                - generic [ref=f7e276]:
+                  - generic [ref=f7e277]: Alternate Phone Number
+                  - generic [ref=f7e279]:
+                    - button "Change country, selected United Kingdom (+44)" [ref=f7e281] [cursor=pointer]:
+                      - generic [ref=f7e285]: GB
+                    - textbox "Alternate Phone Number" [ref=f7e286]: 7186 650574
+                - generic [ref=f7e288]:
+                  - generic [ref=f7e289]: PO Box *
+                  - textbox "PO Box *" [ref=f7e291]:
+                    - /placeholder: PO Box
+          - button "Continue" [ref=f7e295] [cursor=pointer]
