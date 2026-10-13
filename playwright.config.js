@@ -15,6 +15,7 @@ module.exports = defineConfig({
   },
   use: {
     baseURL: 'https://brand1.cp-uat.fynxt.com',
+    headless: true,
     trace: 'retain-on-failure',
     screenshot: 'only-on-failure',
     video: 'retain-on-failure',

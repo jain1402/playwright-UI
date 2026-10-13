@@ -4,10 +4,12 @@
   "private": true,
   "type": "commonjs",
   "scripts": {
-    "test": "playwright test",
+    "test": "npm run test:dev",
+    "test:dev": "playwright test tests/dynamic-form-inspector.spec.js --project=chromium",
+    "auth:setup": "playwright test tests/auth.setup.spec.js --project=chromium --workers=1 --retries=0",
     "test:signup": "playwright test tests/signup.spec.js",
     "test:login": "playwright test tests/login.spec.js",
-    "test:e2e": "playwright test tests/e2e.spec.js",
+    "test:e2e": "playwright test tests/e2e.spec.js --project=chromium --headed",
     "test:headed": "playwright test --headed",
     "test:debug": "playwright test --debug",
     "test:headed:e2e": "playwright test --headed tests/e2e.spec.js"

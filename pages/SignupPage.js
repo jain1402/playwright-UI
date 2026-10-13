@@ -111,7 +111,7 @@ class SignupPage {
     await this.selectResidenceCountry();
     await this.selectTitle();
     await this.enterPersonalDetails({
-      firstName: 'Playwright',
+      firstName: 'lavanya',
       lastName: 'Test',
       ...credentials,
     });
