@@ -1,0 +1,31 @@
+
+trigger:
+  - main
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+  - task: UseNode@1
+    displayName: 'Install Node.js'
+    inputs:
+      version: '22.x'
+
+  - script: npm ci
+    displayName: 'Install npm dependencies'
+
+  - script: npx playwright install --with-deps chromium
+    displayName: 'Install Playwright browser'
+
+  - script: npx playwright test
+    displayName: 'Run Playwright tests'
+    env:
+      CI: 'true'
+
+  - task: PublishPipelineArtifact@1
+    displayName: 'Publish Playwright HTML report'
+    condition: succeededOrFailed()
+    inputs:
+      targetPath: 'playwright-report'
+      artifact: 'playwright-html-report'
+      publishLocation: 'pipeline'
